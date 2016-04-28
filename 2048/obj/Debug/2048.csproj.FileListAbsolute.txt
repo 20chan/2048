@@ -1,0 +1,19 @@
+E:\Programming\C#\Windows Form\2048\2048\bin\Debug\2048.exe.config
+E:\Programming\C#\Windows Form\2048\2048\bin\Debug\2048.exe
+E:\Programming\C#\Windows Form\2048\2048\bin\Debug\2048.pdb
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\_2048.Form1.resources
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\2048.exe
+E:\Programming\C#\Windows Form\2048\2048\obj\Debug\2048.pdb
+E:\C#\2048\2048\bin\Debug\2048.exe.config
+E:\C#\2048\2048\obj\Debug\2048.exe
+E:\C#\2048\2048\obj\Debug\2048.pdb
+E:\C#\2048\2048\bin\Debug\2048.exe
+E:\C#\2048\2048\bin\Debug\2048.pdb
+E:\C#\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+E:\C#\2048\2048\obj\Debug\_2048.Form1.resources
+E:\C#\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+E:\C#\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+E:\C#\2048\2048\obj\Debug\_2048.debuger.resources
